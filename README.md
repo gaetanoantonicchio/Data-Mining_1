@@ -1,5 +1,5 @@
-# Data Mining 1 Project
-# IBM-HR Attrition
+# Data Mining 1: Fundamentals 
+# IBM-HR Attrition Project
 <img width=170px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IBM_logo_in.jpg/1600px-IBM_logo_in.jpg" />  <img width=150px src="https://www.plan4res.eu/wp-content/uploads/2018/02/University-of-Pisa-Italy.png" />
 
 Tasks of the project:
